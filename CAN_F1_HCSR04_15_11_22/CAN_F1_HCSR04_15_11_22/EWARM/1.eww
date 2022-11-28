@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\CAN_F1_HCSR04_15_11_22.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\..\Desktop\Code DATN\CAN_Node1_DHT22_DHT11_DS18B20\EWARM\CAN_Node1_DHT22_DHT11_DS18B20.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\..\..\Desktop\Code DATN\CAN_Node2_SDS011_Ze08_Mq135\EWARM\CAN_Node2_SDS011_Ze08_Mq135.ewp</path>
+    </project>
+    <project>
+        <path>E:\STMWorkspace\MasteringMCU2\AC6\R\Test_Ze08_2\EWARM\Test_Ze08_2.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

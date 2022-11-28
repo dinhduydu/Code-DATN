@@ -1,0 +1,37 @@
+C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\CAN_Node1_f4_27_11\BrowseInfo\Drivers\STM32F4xx_HAL_Driver\stm32f4xx_hal_flash_ex.pbi: \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Core\Inc\stm32f4xx_hal_conf.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Include\core_cm4.h \
+  E:\IAR\arm\inc\c\stdint.h E:\IAR\arm\inc\c\ycheck.h \
+  E:\IAR\arm\inc\c\yvals.h E:\IAR\arm\inc\c\DLib_Defaults.h \
+  E:\IAR\arm\inc\c\DLib_Config_Full.h E:\IAR\arm\inc\c\DLib_Product.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  E:\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  E:\IAR\arm\inc\c\stddef.h E:\IAR\arm\inc\c\ysizet.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_exti.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_dma_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_can.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_i2c_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim.h \
+  C:\Users\Duy\ Du\Desktop\Code\ DATN\CAN_Node1_f4_27_11\EWARM\..\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_tim_ex.h

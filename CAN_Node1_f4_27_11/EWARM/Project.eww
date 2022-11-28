@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\..\CAN_intermediate transmission_simuPi\EWARM\CAN_intermediate transmission_simuPi.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\CAN_Node1_DHT22_DHT11_DS18B20\EWARM\CAN_Node1_DHT22_DHT11_DS18B20.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\CAN_Node1_f4_27_11.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

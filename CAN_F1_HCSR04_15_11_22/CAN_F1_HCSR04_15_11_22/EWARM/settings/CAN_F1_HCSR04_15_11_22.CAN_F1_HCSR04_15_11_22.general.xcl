@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armPROC.dll" 
+
+"E:\IAR\arm\bin\armSTLINK.dll" 
+
+"C:\Users\Duy Du\Downloads\CAN_F1_HCSR04_15_11_22\CAN_F1_HCSR04_15_11_22\EWARM\CAN_F1_HCSR04_15_11_22\Exe\CAN_F1_HCSR04_15_11_22.out" 
+
+--plugin="E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\IAR\arm/config/debugger/ST/STM32F1xx.dmac" 
+
+--flash_loader="E:\IAR\arm/config/flashloader/ST/FlashSTM32F10xx8.board" 
+
+
+
+

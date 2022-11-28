@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armPROC.dll" 
+
+"E:\IAR\arm\bin\armSTLINK.dll" 
+
+"C:\Users\Duy Du\Desktop\Code DATN\CAN_Node1_f4_27_11\EWARM\CAN_Node1_f4_27_11\Exe\CAN_Node1_f4_27_11.out" 
+
+--plugin="E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="E:\IAR\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="E:\IAR\arm/config/flashloader/ST/FlashSTM32F4xxx.board" 
+
+
+
+

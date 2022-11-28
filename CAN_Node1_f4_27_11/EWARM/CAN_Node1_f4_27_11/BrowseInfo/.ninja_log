@@ -1,0 +1,208 @@
+# ninja log v5
+7	116	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	431f7a831852025d
+1	130	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.xcl	493cbd5205380609
+18	156	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	1246428545d95e5e
+126	191	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	dee162b860a20b5e
+12	203	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	ee88ab52b36f7eee
+137	214	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	16acc4dbd322bf9b
+164	232	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	2f1d2beb547311e7
+199	267	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	972ea08befe38996
+210	278	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.xcl	537d3d6f9efedcbc
+221	289	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	6f75b0d599db56ed
+239	304	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	1ab9690cd04be995
+275	342	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	3c9517e209ac7af6
+286	354	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.xcl	b0860808d3057e4b
+296	371	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	cde429932405198
+311	385	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	acaa58c21e099d80
+350	430	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	a64cbe5ddf7eb594
+362	442	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	2bed68b9dec3c35a
+378	459	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	1620378eff1f5814
+394	473	6912679360000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	2da031c1b823273a
+438	549	6912679370000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	a134a0860fe6a456
+449	564	6912679370000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	9592b55aa04cc227
+559	654	6912679370000000	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	ad5af4ddfe265797
+467	909	6912679373931106	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	1d06a4cb28a8e203
+481	929	6912679374014817	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	49ffdf7606f4f670
+571	979	6912679374647183	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	c9a00673a060c218
+662	1126	6912679376080241	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	799996654c9b5e2e
+912	1249	6912679377278059	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	1e47e7a7363ac1da
+931	1282	6912679377629610	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	aac2ddbbe4388ab7
+982	1310	6912679377937049	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	7fd89ca4a8bc05c8
+1129	1513	6912679380007955	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	c80b2309d23694cb
+1251	1623	6912679381020122	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	dc5a7345fee45aa5
+1285	1674	6912679381612659	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	9bb6f7b679977b98
+1313	1684	6912679381631374	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	4395550379133416
+1517	1877	6912679383614682	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	b5f428b49224d86
+1626	1984	6912679384613527	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	9fc7e76e32859c
+1687	2026	6912679385012420	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	772ff2bb627afadd
+1677	2034	6912679385156510	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	7b52eeb94f37a8ae
+1881	2399	6912679388851969	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	7966a7bb097cc3c5
+2030	2422	6912679389048279	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	fbee6897b1aa6df2
+2038	2465	6912679389457563	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	843b70a40fba3b2a
+1987	2502	6912679389766538	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.pbi	bbeec7b465792d51
+2402	2832	6912679393188781	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.pbi	ed94a6cb6e274696
+2425	2866	6912679393525916	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	2d2df52e2f59e705
+2468	2878	6912679393610085	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	a15043b8cf818903
+2506	2974	6912679394609675	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part2.pbi	acbc287c9924db92
+2836	3299	6912679397847186	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part1.pbi	36c17428aad9c171
+2881	3328	6912679398150549	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part3.pbi	28cb6fde8871eabe
+2872	3379	6912679398646931	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	233a57210de6ca52
+3382	3612	6912679401008472	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part4.pbi	1443f195ac068272
+3616	3955	6912679404408435	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	8094d68939116e47
+3960	5726	6912679421650667	E:/STMWorkspace/MasteringMCU2/AC6/R/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	76bcec587cf02676
+10	92	6912680040000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	70d6c09c4b2b9046
+7	103	6912680040000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.xcl	ba970dead6a8d402
+14	117	6912680040000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	a293499b2aa85c43
+3	139	6912680040000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	b3160666b820185e
+101	163	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	3579095ae91ec3a7
+111	179	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	e128a5b338f14b59
+125	193	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	3747f60d135e0295
+147	215	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	80f7b4a8b66b6fc7
+171	239	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	bda14f3aeb4d781b
+187	252	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	4bb8571328aaed3c
+201	261	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	1520ad06b7776e95
+222	283	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	3a128c9d66525684
+259	319	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.xcl	c7260b9f6e8b3ba2
+268	329	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	5b36390af9f2f25f
+246	339	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	b6e1c95eba13b635
+290	351	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.xcl	4b0bc872d1f44df6
+326	386	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	dfd9038d35e8aa16
+336	399	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	997694beb34bf9ec
+346	408	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	3dc706bce1e024b5
+358	419	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	1ccde013354b3928
+393	452	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	52d682ee4a9e2599
+406	463	6912680050000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	b4bfb386370b2ca0
+426	810	6912680056647450	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	18cb24c4eaaf655f
+415	826	6912680056800428	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	2db870b452a86e8a
+458	906	6912680057607440	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	63ae1485d2291d3e
+469	1038	6912680058825653	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	7e07eea0f0023436
+813	1231	6912680060816419	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	c8d5d465cc8b3357
+829	1262	6912680061095179	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+910	1473	6912680063281009	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	a9109460357abc31
+1041	1601	6912680064554215	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	cb5b9cabadcc6436
+1265	1707	6912680065540102	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	7615883eec87f51c
+1238	1728	6912680065822375	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	f82804b16b32aafe
+1476	1878	6912680067220461	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	6db84655973cec64
+1604	1999	6912680068404640	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	4b25a667e99b55a7
+1711	2090	6912680069445905	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	83407e8f7b276036
+1732	2131	6912680069714491	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	4999c5bc8299753c
+1881	2397	6912680072517498	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	2518be0f7a8635de
+2003	2461	6912680073123029	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	d14bca23eadc4f69
+2134	2668	6912680075159663	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.pbi	2dd7bb94bebb88cc
+2093	2744	6912680075926569	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.pbi	f253b3b1a7a598d1
+2400	2797	6912680076508168	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	b547e8d889b54bee
+2464	2935	6912680077779957	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	c58c1de0b95e971d
+2671	3046	6912680078989132	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	bf581bf7118f6f72
+2747	3140	6912680079826172	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	f99fb3121dff5aa7
+2800	3330	6912680081747374	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part2.pbi	96133896b9863bcc
+2939	3429	6912680082725676	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part1.pbi	a2267bee22d2d6f5
+3049	3557	6912680084013600	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part3.pbi	62c33c64620813d7
+3337	3588	6912680084331976	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part4.pbi	739537f1b87acef4
+3143	3626	6912680084820239	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	1ab6eecdc70832ae
+3632	3932	6912680087794291	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+3939	5589	6912680104011618	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+10	77	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.xcl	b631386092f936a6
+2	88	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.xcl	31f081cb1eeb313a
+15	99	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.xcl	6035feb0fd1139e9
+5	112	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.xcl	a2d82dfb6993b2cc
+95	162	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.xcl	1f6ddd5d26ca4285
+85	171	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.xcl	d7ceca40f3d056db
+108	183	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.xcl	12ee4d2aa13f0df9
+119	194	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.xcl	b50bf45cf5c9e66f
+169	232	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.xcl	bd3e71483ba3fef
+191	255	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.xcl	a783cae6443ebb9d
+201	265	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.xcl	225caf95d2736f24
+178	283	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.xcl	f3695004de1a94a
+239	315	6912680930000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.xcl	2a7bab52061b0a5d
+262	339	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.xcl	11d9bc9aefa9e4f7
+272	362	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.xcl	225baab45f9e22fb
+321	400	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.xcl	ff1b5643a50fbce0
+291	410	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.xcl	8df22b0041834a2c
+347	424	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.xcl	4cc44e168a851805
+371	452	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.xcl	359ea827f5311144
+407	484	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.xcl	57135f997e1484e2
+418	493	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.xcl	45c04f5616c6759f
+432	504	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.xcl	ee641f2659742c8c
+491	903	6912680945944324	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/CMSIS/system_stm32f4xx.pbi	18cb24c4eaaf655f
+460	909	6912680945964240	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal.pbi	c8d5d465cc8b3357
+501	920	6912680946115216	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_it.pbi	a9109460357abc31
+511	938	6912680946290448	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+906	961	6912680940000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.xcl	4171d7ad01df5927
+912	1069	6912680947537314	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+941	1272	6912680949557117	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_cortex.pbi	2db870b452a86e8a
+923	1277	6912680949655292	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/stm32f4xx_hal_msp.pbi	7e07eea0f0023436
+967	1299	6912680949790032	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_can.pbi	63ae1485d2291d3e
+1072	1391	6912680950768946	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_exti.pbi	4999c5bc8299753c
+1304	1638	6912680953273903	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ex.pbi	7615883eec87f51c
+1275	1739	6912680954248102	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash.pbi	4b25a667e99b55a7
+1395	1753	6912680954321742	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma.pbi	cb5b9cabadcc6436
+1280	1758	6912680954458400	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_dma_ex.pbi	f82804b16b32aafe
+1643	1997	6912680956886869	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc.pbi	d14bca23eadc4f69
+1742	2070	6912680957502979	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_flash_ramfunc.pbi	83407e8f7b276036
+1761	2084	6912680957684869	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr.pbi	c58c1de0b95e971d
+1756	2156	6912680958399898	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c.pbi	f253b3b1a7a598d1
+2088	2390	6912680960803564	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_pwr_ex.pbi	b547e8d889b54bee
+2073	2425	6912680961061689	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_i2c_ex.pbi	2dd7bb94bebb88cc
+2000	2474	6912680961602722	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_gpio.pbi	6db84655973cec64
+2159	2540	6912680962299097	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim_ex.pbi	f99fb3121dff5aa7
+2394	2753	6912680964433842	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_rcc_ex.pbi	bf581bf7118f6f72
+2429	2828	6912680965184405	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	704bf6467c78fa7a
+2477	2956	6912680966360967	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part2.pbi	4b01ec5d66753a61
+2543	3019	6912680966977819	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part1.pbi	349748b18e839ca5
+2756	3157	6912680968397137	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Drivers/STM32F4xx_HAL_Driver/stm32f4xx_hal_tim.pbi	2518be0f7a8635de
+2834	3278	6912680969694140	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part3.pbi	b32f35ddb3a8e914
+3161	3459	6912680971418030	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part4.pbi	76130737af3a64af
+3464	3787	6912680974692453	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+3794	5323	6912680989708713	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	281	6912681072953208	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+285	656	6912681076705794	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	704bf6467c78fa7a
+663	1107	6912681081228781	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1111	2845	6912681097991886	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	333	6912684610798121	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+337	716	6912684614761929	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	704bf6467c78fa7a
+723	1060	6912684618209184	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1067	2715	6912684634235521	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	95	6912691470000000	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/temp.xcl	ad1d9e6fd5e929da
+6	450	6912691481856740	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+7	486	6912691482223457	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part4.pbi	95016ce9e07c1ce3
+102	494	6912691482276935	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/temp.pbi	2bac45dac07bb99c
+11	546	6912691482855159	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part3.pbi	df45703a09f174ed
+453	893	6912691486319393	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part1.pbi	a031ea3c963b1496
+491	929	6912691486656144	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part2.pbi	8a207f12cd2cc59c
+497	936	6912691486656144	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+941	1301	6912691490404345	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1309	2981	6912691506666121	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	419	6912701142805944	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+423	829	6912701146959801	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+3	345	6912701201765281	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+351	1973	6912701217690654	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+7	345	6912703091679929	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+347	756	6912703095832028	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+762	1116	6912703099412032	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+3	1598	6912703172030577	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+4	298	6912703881177326	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+301	704	6912703885178926	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+709	1117	6912703889351449	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1123	2818	6912703905974835	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	363	6912705018288870	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+6	502	6912705019632209	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+507	942	6912705024074501	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+950	1345	6912705028146276	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1352	3033	6912705044577745	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+5	337	6912711214908162	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+3	345	6912711214980131	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+349	795	6912711219367601	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+800	1184	6912711223353860	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1190	3042	6912711241520066	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+3	329	6912712455020369	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/BME280_STM32.pbi	601d19a14eecb521
+332	760	6912712459274026	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+766	1137	6912712463117571	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1143	2890	6912712480167626	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+5	420	6913364797175629	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+424	986	6913364802869101	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+993	1441	6913364807345079	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+1449	3854	6913364831058545	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
+7	418	6913367313373377	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/Application/User/Core/main.pbi	648ecf4a578102c4
+427	932	6913367318557783	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11_part0.pbi	370702cdd5259979
+949	1567	6913367324762169	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbd	7564ce180606fa45
+7	2279	6913367411653166	C:/Users/Duy Du/Desktop/Code DATN/CAN_Node1_f4_27_11/EWARM/CAN_Node1_f4_27_11/BrowseInfo/CAN_Node1_f4_27_11.pbw	cbc61bc4b9359a33
